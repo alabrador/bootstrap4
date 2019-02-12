@@ -355,6 +355,10 @@ a:focus, a:hover, a:active {
   background: transparent;
 }
 
+.bg-slider1 {
+  background: #2798d2;
+}
+
 .bg-nav {
   background: white;
 }
