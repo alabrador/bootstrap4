@@ -398,3 +398,15 @@ a:focus, a:hover, a:active {
 .text-nav {
   color: #000000;
 }
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.card-title {
+  margin-bottom: 0.75rem;
+  font-size: large;
+  font-weight: 400;
+  color: cornflowerblue;
+}
